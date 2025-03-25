@@ -1,51 +1,31 @@
+# 🎥 Netflix Clone - Hosted on AWS EC2
 
-#Netflix Clone Project<br>
+## 📚 Project Overview
+This project is a **Netflix Clone** built using **HTML** and **CSS**, designed to replicate the frontend interface of the popular streaming platform. The project is hosted on an **Amazon EC2 instance** to demonstrate cloud deployment and web hosting skills.
 
-Welcome to the Netflix Clone project! 🎉 This web application, crafted with HTML and CSS, brings the essence of Netflix to your browser. Dive into the world of responsive design, sleek layout, and the visual charm reminiscent of the popular streaming platform.<br>
+## 🚀 Features
+- 📺 **Responsive UI**: Designed to be mobile-friendly and adaptive to different screen sizes.
+- 🎨 **Modern Design**: Clean and sleek user interface inspired by the Netflix homepage.
+- 🕹️ **Interactive Hover Effects**: Dynamic hover effects on thumbnails and buttons.
+- 🌐 **Deployed on AWS EC2**: Hosted on an Amazon Linux/Ubuntu instance with HTTP/HTTPS access configured.
 
-##Table of Contents<br>
-Demo<br>
-Features<br>
-Screenshots<br>
-Getting Started<br>
-Usage<br>
-Contributing<br>
-License<br>
-Demo<br>
-Experience the Netflix Clone in action by visiting the live demo. Feel free to explore the responsive layout and Netflix-inspired styling.<br>
+---
 
-##Features<br>
-✨ Responsive Design<br>
-The Netflix Clone offers a seamless viewing experience across devices. Whether you're on your desktop, tablet, or smartphone, the layout adjusts gracefully to suit your screen size.<br>
+## 🧰 Technologies Used
+- **Frontend:**
+  - HTML5
+  - CSS3
+- **Cloud Infrastructure:**
+  - Amazon EC2 (Elastic Compute Cloud)
+  - Apache/NGINX (for hosting the static files)
+  - Security Groups and Key Pairs for access control
 
-🎬 Netflix-Like Layout<br>
-Immerse yourself in the familiar aesthetics of Netflix. From the color palette to font choices, every detail is crafted to capture the essence of the original platform.<br>
+---
 
-##🍿 Sample Content<br>
-While the content is placeholder, it gives you a taste of how the application can be populated with your favorite movies and series.
-
-##Getting Started<br>
-###Prerequisites<br>
-All you need is a modern web browser installed on your computer. No additional dependencies are required.<br>
-
-##Installation<br>
-Clone the repository to your local machine:<br>
-
-##bash<br>
-
-##git clone https://github.com/Akgithhub/Netflix-Clone.git<br>
-Open the index.html file in your preferred web browser to start exploring the Netflix Clone.<br>
-
-##Usage<br>
-Once you've opened the index.html file, navigate through the Netflix Clone interface. Click on different sections or items to witness the responsive design in action. Customize the content or styling to make it your own!<br>
-
-##Contributing<br>
-Excited to contribute? We'd love your input! Follow these steps:<br>
-
-##Fork the project.<br>
-Create a new branch for your feature or bug fix.<br>
-Make your changes and commit them.<br>
-Push to your fork and submit a pull request.<br>
-License<br>
-
-Feel free to tailor this README to fit your personal touch. Happy coding and enjoy building your Netflix Clone! 🍿🚀<br>
+## 📂 Directory Structure
+/netflix-clone
+├── /assets
+│   ├── images/
+│   └── videos/
+├── index.html
+└── styles.css
