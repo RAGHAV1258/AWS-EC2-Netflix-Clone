@@ -6,7 +6,6 @@ This project is a **Netflix Clone** built using **HTML** and **CSS**, designed t
 ## 🚀 Features
 - 📺 **Responsive UI**: Designed to be mobile-friendly and adaptive to different screen sizes.
 - 🎨 **Modern Design**: Clean and sleek user interface inspired by the Netflix homepage.
-- 🕹️ **Interactive Hover Effects**: Dynamic hover effects on thumbnails and buttons.
 - 🌐 **Deployed on AWS EC2**: Hosted on an Amazon Linux/Ubuntu instance with HTTP/HTTPS access configured.
 
 ---
@@ -17,7 +16,7 @@ This project is a **Netflix Clone** built using **HTML** and **CSS**, designed t
   - CSS3
 - **Cloud Infrastructure:**
   - Amazon EC2 (Elastic Compute Cloud)
-  - Apache/NGINX (for hosting the static files)
+  - Apache Web Server (`httpd`)
   - Security Groups and Key Pairs for access control
 
 ---
