@@ -28,3 +28,6 @@ This project is a **Netflix Clone** built using **HTML** and **CSS**, designed t
 │   └── videos/
 ├── index.html
 └── styles.css
+
+## Project URL
+[Project Access Link]->(https://nettfilx.in/)
